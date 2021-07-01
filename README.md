@@ -1,4 +1,4 @@
-# Тестовое задание TorrowTech на позицию QA Automation Engineer
+# Тестовое задание TorrowTech на позицию SDET/QA Automation Engineer
 
 ## Задание:
 > Написать несколько сценариев для процесса аутентификации.
@@ -16,5 +16,6 @@
 - https://emaildev1.torrow.net/api/email/{email} (прим. https://emaildev1.torrow.net/api/email/asdsad@dsfsdf.sdf)
 
 # Требования:
-- Тестовый проект должен быть написан на языке C# с использованием фреймворка SpecFlow (https://specflow.org/) и Selenium.
+- Тестовый проект должен быть написан на языке C#(.NetCore) с использованием фреймворка SpecFlow (https://specflow.org/) и Selenium.
 - Использовать паттерн PageObject (прим. https://docs.specflow.org/projects/specflow/en/latest/ui-automation/Selenium-with-Page-Object-Pattern.html)
+- Решение представить в виде пулл реквеста в этот репозиторий
