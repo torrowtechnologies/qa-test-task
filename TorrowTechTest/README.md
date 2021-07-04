@@ -1,8 +1,8 @@
-﻿#Тестовое задание для Torrowtech по тестированию
+# Тестовое задание для Torrowtech по тестированию
 
 Используемые средства:
-*C#
-*SpecFlow
-*Selenium
+* C#
+* SpecFlow
+* Selenium
 
 Паттерн: Page-Object
